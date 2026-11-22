@@ -101,6 +101,6 @@ Umgebungsvariablen (in `raszero-cam.service`):
 
 Keine Secrets nötig — alles läuft im lokalen Netzwerk ohne Authentifizierung.
 
-## Lizenz
+## License
 
-MIT — frei verwendbar, ohne Garantie.
+Copyright 2026 thelad-dev. Licensed under the Apache License 2.0, see [LICENSE](LICENSE).
